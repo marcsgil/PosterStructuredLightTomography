@@ -1,0 +1,3 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+StructuredLight = "13204c95-a6e5-4c09-8c7b-ee09b09e0944"
